@@ -1,3 +1,8 @@
 # Search Engine
 
-Building a search engine in Python using the Google PageRank Algorithm.
+Building and running a simple version of the Google PageRank Algorithm.
+
+Here is an early paper by Larry Page and Sergy Brin, the founders of Google, that describes their early thoughts about the algorithm:
+
+http://infolab.stanford.edu/~backrub/google.html
+
